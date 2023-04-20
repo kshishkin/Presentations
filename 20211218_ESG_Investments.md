@@ -38,7 +38,7 @@ If you'd prefer to sacrifice profits for bigger positive impact, there is a sepa
 - Environmental:
 Climate Crisis, Environmental Sustainability
 - Social: 
-Diversity, Human Rights, Consumer Protection, Animal Warefare
+Diversity, Human Rights, Consumer Protection, Animal Welfare
 - Governance:
   - Management Structure (CEO vs Charirman?)
   - Employee Relations (Is it a good company to work for?)
